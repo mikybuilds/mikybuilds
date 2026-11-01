@@ -5,8 +5,7 @@
 **Computer science student in Ferrara, Italy.**
 I build bots and AI assistants that run on my own PC, and an iOS app to talk to them.
 
-[Portfolio](https://mikybuilds.github.io) · [Telegram](https://t.me/mikybuilds)
-
+[Portfolio](https://mikybuilds.github.io) · [LinkedIn](https://www.linkedin.com/in/mykhailo-zhupanov/) · [Telegram](https://t.me/mikybuilds)
 </div>
 
 ---
