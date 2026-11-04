@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" role="img" aria-label="Lanterna: Open-source AI assistant for people without a strong PC. Windows + Ubuntu.">
+<defs>
+  <clipPath id="c"><rect width="420" height="200" rx="22"/></clipPath>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+</defs>
+<g clip-path="url(#c)" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
+  <rect width="420" height="200" fill="#0E1118"/>
+  <circle cx="400" cy="-10" r="110" fill="#E08A00" opacity=".55" filter="url(#b)"><animate attributeName="r" values="100;130;100" dur="7s" repeatCount="indefinite"/></circle>
+  <rect x="28" y="26" width="40" height="40" rx="12" fill="#E08A00"/>
+  <g transform="translate(28 26)"><path d="M15 9h10M17 9v-3h6v3M13 13h14l-1.500 17h-11z" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><path d="M20 17c2.500 2.600 2.500 5.400 0 8-2.500-2.600-2.500-5.400 0-8z" fill="#fff"/></g>
+  <path d="M378 34l-12 12M368 34h10v10" stroke="#fff" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <text x="28" y="100" font-size="26" font-weight="800" letter-spacing="-.5" fill="#fff">Lanterna</text>
+  <text x="28" y="124" font-size="14" fill="#A5AEBF">Open-source AI assistant for people</text>
+  <text x="28" y="142" font-size="14" fill="#A5AEBF">without a strong PC. Windows + Ubuntu.</text>
+  <rect x="28" y="156" width="35" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="46" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">MIT</text><rect x="71.2" y="156" width="139" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="141" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">Free cloud models</text><rect x="218.0" y="156" width="57" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="247" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">Ollama</text>
+</g>
+<rect x=".5" y=".5" width="419" height="199" rx="21.500" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

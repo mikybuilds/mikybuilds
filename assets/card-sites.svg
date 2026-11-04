@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" role="img" aria-label="Site factory: Finds local shops, builds a demo site and a visit kit. Made for Ferrara.">
+<defs>
+  <clipPath id="c"><rect width="420" height="200" rx="22"/></clipPath>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+</defs>
+<g clip-path="url(#c)" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
+  <rect width="420" height="200" fill="#0E1118"/>
+  <circle cx="400" cy="-10" r="110" fill="#0FA896" opacity=".55" filter="url(#b)"><animate attributeName="r" values="100;130;100" dur="7s" repeatCount="indefinite"/></circle>
+  <rect x="28" y="26" width="40" height="40" rx="12" fill="#0FA896"/>
+  <g transform="translate(28 26)"><rect x="9" y="11" width="22" height="18" rx="3" fill="none" stroke="#fff" stroke-width="2"/><path d="M9 17h22" stroke="#fff" stroke-width="2"/><circle cx="13" cy="14" r="1" fill="#fff"/><circle cx="16.500" cy="14" r="1" fill="#fff"/></g>
+  <path d="M378 34l-12 12M368 34h10v10" stroke="#fff" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <text x="28" y="100" font-size="26" font-weight="800" letter-spacing="-.5" fill="#fff">Site factory</text>
+  <text x="28" y="124" font-size="14" fill="#A5AEBF">Finds local shops, builds a demo site</text>
+  <text x="28" y="142" font-size="14" fill="#A5AEBF">and a visit kit. Made for Ferrara.</text>
+  <rect x="28" y="156" width="109" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="83" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">OpenStreetMap</text><rect x="145.2" y="156" width="65" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="178" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">Netlify</text><rect x="218.0" y="156" width="65" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="250" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">Ferrara</text>
+</g>
+<rect x=".5" y=".5" width="419" height="199" rx="21.500" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

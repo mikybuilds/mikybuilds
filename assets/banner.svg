@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" role="img" aria-label="Mykhailo Zhupanov. I build local AI assistants, Telegram bots, iOS apps and websites for local shops.">
+<defs>
+  <clipPath id="r"><rect width="1000" height="340" rx="28"/></clipPath>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".07"/></pattern>
+  <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#A9BCFF"/></linearGradient>
+  <linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity=".05"/></linearGradient>
+</defs>
+<g clip-path="url(#r)">
+  <rect width="1000" height="340" fill="#0B0D12"/>
+  <g filter="url(#b)">
+    <circle cx="170" cy="40" r="170" fill="#2B59FF" opacity=".55"><animate attributeName="cx" values="170;300;170" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="40;110;40" dur="18s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="320" r="190" fill="#7A4DFF" opacity=".42"><animate attributeName="cx" values="860;740;860" dur="22s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="-20" r="120" fill="#19C3B1" opacity=".25"><animate attributeName="cx" values="560;680;560" dur="26s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect width="1000" height="340" fill="url(#dots)"/>
+
+  <g font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
+    <rect x="56" y="48" width="158" height="32" rx="16" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".14"/>
+    <circle cx="76" cy="64" r="5" fill="#3FB984"><animate attributeName="r" values="4;6.5;4" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.45;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="92" y="69" font-size="14" font-weight="600" fill="#D5DBE8">Ferrara, Italy</text>
+
+    <text x="52" y="168" font-size="84" font-weight="800" letter-spacing="-3" fill="url(#nm)">Mykhailo</text>
+    <text x="52" y="248" font-size="84" font-weight="800" letter-spacing="-3" fill="url(#nm)">Zhupanov</text>
+
+    <text x="56" y="306" font-size="26" font-weight="500" fill="#8C95A6">I build</text>
+    <text x="142" y="306" font-size="26" font-weight="600" fill="#9DB4FF" opacity="0">local AI assistants<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.030;0.220;0.250;1" dur="16s" repeatCount="indefinite"/><animate attributeName="y" values="314;314;306;306;298;298" keyTimes="0;0.000;0.030;0.220;0.250;1" dur="16s" repeatCount="indefinite"/></text><text x="142" y="306" font-size="26" font-weight="600" fill="#9DB4FF" opacity="0">Telegram bots<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.250;0.280;0.470;0.500;1" dur="16s" repeatCount="indefinite"/><animate attributeName="y" values="314;314;306;306;298;298" keyTimes="0;0.250;0.280;0.470;0.500;1" dur="16s" repeatCount="indefinite"/></text><text x="142" y="306" font-size="26" font-weight="600" fill="#9DB4FF" opacity="0">iOS apps<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.500;0.530;0.720;0.750;1" dur="16s" repeatCount="indefinite"/><animate attributeName="y" values="314;314;306;306;298;298" keyTimes="0;0.500;0.530;0.720;0.750;1" dur="16s" repeatCount="indefinite"/></text><text x="142" y="306" font-size="26" font-weight="600" fill="#9DB4FF" opacity="0">websites for local shops<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.750;0.780;0.970;1.000;1" dur="16s" repeatCount="indefinite"/><animate attributeName="y" values="314;314;306;306;298;298" keyTimes="0;0.750;0.780;0.970;1.000;1" dur="16s" repeatCount="indefinite"/></text>
+  </g>
+
+  <g font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" transform="translate(600 58)">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.03;.07;.9;.96;1" dur="16s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0;0 0" keyTimes="0;.03;.07;.9;1" dur="16s" repeatCount="indefinite"/>
+      <rect x="120" y="0" width="244" height="46" rx="23" fill="#2B59FF"/>
+      <text x="144" y="29" font-size="16" font-weight="600" fill="#fff">What's due this week?</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.18;.22;.9;.96;1" dur="16s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0;0 0" keyTimes="0;.18;.22;.9;1" dur="16s" repeatCount="indefinite"/>
+      <circle cx="18" cy="100" r="18" fill="#2B59FF"/>
+      <text x="18" y="106" font-size="16" font-weight="800" fill="#fff" text-anchor="middle">M</text>
+      <rect x="48" y="66" width="316" height="132" rx="22" fill="url(#gl)" stroke="#fff" stroke-opacity=".14"/>
+      <text x="72" y="100" font-size="16" font-weight="700" fill="#fff">Two things on your plate</text>
+      <circle cx="78" cy="128" r="4" fill="#3FB984"/><text x="94" y="133" font-size="15" fill="#C9D0DE">Informatica homework, tomorrow</text>
+      <circle cx="78" cy="156" r="4" fill="#F5A524"/><text x="94" y="161" font-size="15" fill="#C9D0DE">Maths test on Friday</text>
+      <circle cx="78" cy="184" r="4" fill="#2B59FF"/><text x="94" y="189" font-size="15" fill="#C9D0DE">I made a study plan for it</text>
+    </g>
+  </g>
+</g>
+<rect x=".5" y=".5" width="999" height="339" rx="27.500" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

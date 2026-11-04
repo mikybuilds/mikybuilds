@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" role="img" aria-label="MikyCore: My personal assistant on a local model: homework, tests, deals, study plans.">
+<defs>
+  <clipPath id="c"><rect width="420" height="200" rx="22"/></clipPath>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+</defs>
+<g clip-path="url(#c)" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
+  <rect width="420" height="200" fill="#0E1118"/>
+  <circle cx="400" cy="-10" r="110" fill="#2B59FF" opacity=".55" filter="url(#b)"><animate attributeName="r" values="100;130;100" dur="7s" repeatCount="indefinite"/></circle>
+  <rect x="28" y="26" width="40" height="40" rx="12" fill="#2B59FF"/>
+  <g transform="translate(28 26)"><path d="M11 13a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3h-8l-6 5v-5a3 3 0 0 1-1-3z" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/><circle cx="24" cy="15" r="2.200" fill="#fff"/></g>
+  <path d="M378 34l-12 12M368 34h10v10" stroke="#fff" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <text x="28" y="100" font-size="26" font-weight="800" letter-spacing="-.5" fill="#fff">MikyCore</text>
+  <text x="28" y="124" font-size="14" fill="#A5AEBF">My personal assistant on a local model:</text>
+  <text x="28" y="142" font-size="14" fill="#A5AEBF">homework, tests, deals, study plans.</text>
+  <rect x="28" y="156" width="57" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="57" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">Python</text><rect x="93.4" y="156" width="72" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="130" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">Telegram</text><rect x="173.60000000000002" y="156" width="87" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="217" y="173" font-size="12.500" font-weight="600" fill="#C9D0DE" text-anchor="middle">100+ tools</text>
+</g>
+<rect x=".5" y=".5" width="419" height="199" rx="21.500" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>
