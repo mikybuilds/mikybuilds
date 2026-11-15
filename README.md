@@ -1,4 +1,4 @@
-I'm in the third year of a computer science technical high school (ITIS) in Ferrara, Italy. I speak Ukrainian, Italian and English.
+I'm Mykhailo Zhupanov (Михайло Жупанов, Міша for short), a third-year student at a computer science technical high school (ITIS) in Ferrara, Italy. I speak Ukrainian, Italian and English.
 
 Open to internships (including PCTO school placements) and small paid projects.
 
